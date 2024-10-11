@@ -1,0 +1,2 @@
+# shuxratjon.py
+shuxratjon.py
